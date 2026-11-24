@@ -3,6 +3,9 @@
 
 **Proje bağlantısı:**  
 https://15aliozkan.github.io/lavantamapmobil/
+![Uploading Ekran görüntüsü 2026-11-24 230119.png…]()
+<img width="410" height="764" alt="Ekran görüntüsü 2026-11-24 230054" src="https://github.com/user-attachments/assets/3abee8e2-ae5d-43c0-b4bd-79397bf23852" />
+
 
 **Lavanta Haritası Mobil**, coğrafi keşif, interaktif harita, dijital oyun ve bilgi edinme deneyimini tek bir platformda buluşturan mobil uyumlu bir projedir.
 
